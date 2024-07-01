@@ -60,6 +60,12 @@
 | insitro                                |         |
 | Owkin                                  |         |
 
+## LLM orchestration
+
+| Company | Details |
+| --------| ------- |
+| [Wordware](https://www.wordware.ai)  | A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks. |
+
 ## Smarthome
 
 | Company | Details |
